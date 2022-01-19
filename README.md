@@ -1,7 +1,7 @@
 ## Blockchain Installation Guide
 # Installing MyCrypto App
-a.	Navigate to https://download.mycrypto.com
-b.	Download MyCrypto
+-	Navigate to https://download.mycrypto.com
+-	Download MyCrypto
 # Installing Go Ethereum tools
 a.	Navigate to https://geth.ethereum.org/downloads/
 b.	Download Geth & Tools 1.10.15
