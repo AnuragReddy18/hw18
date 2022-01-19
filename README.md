@@ -3,12 +3,12 @@
 -	Navigate to https://download.mycrypto.com
 -	Download MyCrypto
 # Installing Go Ethereum tools
-a.	Navigate to https://geth.ethereum.org/downloads/
-b.	Download Geth & Tools 1.10.15
-c.	Put unarchived folder in home directory as Blockchain-Tools
+- Navigate to https://geth.ethereum.org/downloads/
+- Download Geth & Tools 1.10.15
+- Put unarchived folder in home directory as Blockchain-Tools
 # Creating Nodes
-a.	Empty directory for nodes
-i.	mkdir node1 node2
+- Empty directory for nodes
+  - mkdir node1 node2
 b.	New account numbers from nodes to use as signers
 i.	./geth account new –datadir node1
 ii.	./geth account new –datadir node2
